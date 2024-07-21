@@ -12,6 +12,7 @@ import { UserInputComponent } from "./user-input/user-input.component";
         InvestmentResultsComponent],
     imports: [BrowserModule, UserInputModule],
     bootstrap: [AppComponent],
+
 })
 
 export class AppModule { }
